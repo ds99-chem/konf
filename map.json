@@ -44,6 +44,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/tu-darmstadt.zoom.us\/wc\/join\/87374905458?wpk=wcpk0588c0ab903d180cf03616fa5641a6d3"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
