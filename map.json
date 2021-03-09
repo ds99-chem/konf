@@ -251,7 +251,7 @@
          "height":107,
          "id":46,
          "name":"jitsi_Pause_2",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiConfig",
@@ -284,7 +284,7 @@
          "height":107,
          "id":48,
          "name":"jitsi_Pause_1",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiConfig",
