@@ -20811,11 +20811,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":368
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":378
                         }],
                  "id":368
@@ -20823,11 +20823,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":369
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":379
                         }],
                  "id":369
@@ -20835,11 +20835,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":370
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":380
                         }],
                  "id":370
@@ -20847,11 +20847,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":371
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":381
                         }],
                  "id":371
@@ -20859,11 +20859,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":384
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":374
                         }],
                  "id":374
@@ -20871,11 +20871,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":375
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":385
                         }],
                  "id":375
@@ -20883,11 +20883,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":376
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":386
                         }],
                  "id":376
@@ -20922,11 +20922,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":391
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":401
                         }],
                  "id":391
@@ -20934,11 +20934,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":392
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":402
                         }],
                  "id":392
@@ -20946,7 +20946,7 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":393
                         }],
                  "id":393
@@ -20954,11 +20954,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":394
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":404
                         }],
                  "id":394
@@ -20978,11 +20978,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":396
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":406
                         }],
                  "id":396
@@ -20990,11 +20990,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":397
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":407
                         }],
                  "id":397
@@ -21002,11 +21002,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":399
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":409
                         }],
                  "id":399
@@ -21041,11 +21041,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":414
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":424
                         }],
                  "id":414
@@ -21053,11 +21053,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":415
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":425
                         }],
                  "id":415
@@ -21065,11 +21065,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":416
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":426
                         }],
                  "id":416
@@ -21077,11 +21077,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":417
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":427
                         }],
                  "id":417
@@ -21089,11 +21089,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":418
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":428
                         }],
                  "id":418
@@ -21101,11 +21101,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":419
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":429
                         }],
                  "id":419
@@ -21113,11 +21113,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":420
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":430
                         }],
                  "id":420
@@ -21125,11 +21125,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":421
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":431
                         }],
                  "id":421
@@ -21137,11 +21137,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":422
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":432
                         }],
                  "id":422
@@ -21176,11 +21176,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":437
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":447
                         }],
                  "id":437
@@ -21188,11 +21188,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":438
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":448
                         }],
                  "id":438
@@ -21200,11 +21200,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":439
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":449
                         }],
                  "id":439
@@ -21212,11 +21212,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":440
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":450
                         }],
                  "id":440
@@ -21224,11 +21224,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":441
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":451
                         }],
                  "id":441
@@ -21236,11 +21236,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":442
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":452
                         }],
                  "id":442
@@ -21248,11 +21248,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":443
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":453
                         }],
                  "id":443
@@ -21260,11 +21260,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":444
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":454
                         }],
                  "id":444
@@ -21272,11 +21272,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":445
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":455
                         }],
                  "id":445
@@ -21311,11 +21311,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":460
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":470
                         }],
                  "id":460
@@ -21323,11 +21323,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":461
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":471
                         }],
                  "id":461
@@ -21335,11 +21335,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":462
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":472
                         }],
                  "id":462
@@ -21347,11 +21347,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":463
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":473
                         }],
                  "id":463
@@ -21359,11 +21359,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":464
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":474
                         }],
                  "id":464
@@ -21371,11 +21371,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":465
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":475
                         }],
                  "id":465
@@ -21383,11 +21383,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":466
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":476
                         }],
                  "id":466
@@ -21395,11 +21395,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":468
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":478
                         }],
                  "id":468
@@ -21434,11 +21434,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":483
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":493
                         }],
                  "id":483
@@ -21446,11 +21446,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":484
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":494
                         }],
                  "id":484
@@ -21458,11 +21458,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":485
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":495
                         }],
                  "id":485
@@ -21482,11 +21482,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":487
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":497
                         }],
                  "id":487
@@ -21494,11 +21494,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":488
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":498
                         }],
                  "id":488
@@ -21506,11 +21506,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":489
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":499
                         }],
                  "id":489
@@ -21518,11 +21518,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":421
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":431
                         }],
                  "id":490
@@ -21530,11 +21530,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":491
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":501
                         }],
                  "id":491
@@ -21569,11 +21569,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":506
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":516
                         }],
                  "id":506
@@ -21581,11 +21581,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":507
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":517
                         }],
                  "id":507
@@ -21593,11 +21593,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":508
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":518
                         }],
                  "id":508
@@ -21605,11 +21605,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":509
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":519
                         }],
                  "id":509
@@ -21617,11 +21617,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":510
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":520
                         }],
                  "id":510
@@ -21629,11 +21629,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":511
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":521
                         }],
                  "id":511
@@ -21641,11 +21641,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":512
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":522
                         }],
                  "id":512
@@ -21653,11 +21653,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":513
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":523
                         }],
                  "id":513
@@ -21665,11 +21665,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":514
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":524
                         }],
                  "id":514
@@ -21704,11 +21704,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":529
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":539
                         }],
                  "id":529
@@ -21716,11 +21716,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":531
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":541
                         }],
                  "id":531
@@ -21728,11 +21728,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":532
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":542
                         }],
                  "id":532
@@ -21740,11 +21740,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":534
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":544
                         }],
                  "id":534
@@ -21752,11 +21752,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":535
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":545
                         }],
                  "id":535
@@ -21764,11 +21764,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":537
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":547
                         }],
                  "id":537
@@ -21803,11 +21803,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":552
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":562
                         }],
                  "id":552
@@ -21815,11 +21815,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":553
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":563
                         }],
                  "id":553
@@ -21827,11 +21827,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":554
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":564
                         }],
                  "id":554
@@ -21839,11 +21839,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":555
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":565
                         }],
                  "id":555
@@ -21851,11 +21851,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":556
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":566
                         }],
                  "id":556
@@ -21863,11 +21863,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":557
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":567
                         }],
                  "id":557
@@ -21875,11 +21875,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":558
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":568
                         }],
                  "id":558
@@ -21887,11 +21887,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":559
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":569
                         }],
                  "id":559
@@ -21899,11 +21899,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":560
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":570
                         }],
                  "id":560
@@ -21938,11 +21938,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":575
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":585
                         }],
                  "id":575
@@ -21950,11 +21950,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":576
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":586
                         }],
                  "id":576
@@ -21962,11 +21962,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":577
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":587
                         }],
                  "id":577
@@ -21974,11 +21974,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":578
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":588
                         }],
                  "id":578
@@ -21986,11 +21986,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":579
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":589
                         }],
                  "id":579
@@ -21998,11 +21998,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":580
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":590
                         }],
                  "id":580
@@ -22010,11 +22010,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":581
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":591
                         }],
                  "id":581
@@ -22022,11 +22022,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":582
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":592
                         }],
                  "id":582
@@ -22061,11 +22061,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":598
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":608
                         }],
                  "id":598
@@ -22073,11 +22073,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":599
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":609
                         }],
                  "id":599
@@ -22085,11 +22085,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":600
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":610
                         }],
                  "id":600
@@ -22097,11 +22097,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":601
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":611
                         }],
                  "id":601
@@ -22109,11 +22109,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":602
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":612
                         }],
                  "id":602
@@ -22121,11 +22121,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":603
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":613
                         }],
                  "id":603
@@ -22133,11 +22133,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":604
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":614
                         }],
                  "id":604
@@ -22145,11 +22145,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":605
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":615
                         }],
                  "id":605
@@ -22184,11 +22184,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":621
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":631
                         }],
                  "id":621
@@ -22196,11 +22196,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":622
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":632
                         }],
                  "id":622
@@ -22208,11 +22208,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":623
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":633
                         }],
                  "id":623
@@ -22220,11 +22220,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":624
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":634
                         }],
                  "id":624
@@ -22232,11 +22232,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":625
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":635
                         }],
                  "id":625
@@ -22244,11 +22244,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":626
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":636
                         }],
                  "id":626
@@ -22283,11 +22283,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":644
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":654
                         }],
                  "id":644
@@ -22295,11 +22295,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":645
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":655
                         }],
                  "id":645
@@ -22307,11 +22307,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":646
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":656
                         }],
                  "id":646
@@ -22319,11 +22319,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":647
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":657
                         }],
                  "id":647
@@ -22331,11 +22331,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":648
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":658
                         }],
                  "id":648
@@ -22343,11 +22343,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":649
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":659
                         }],
                  "id":649
