@@ -20966,11 +20966,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":395
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":405
                         }],
                  "id":395
@@ -21470,11 +21470,11 @@
                 {
                  "animation":[
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":486
                         }, 
                         {
-                         "duration":500,
+                         "duration":100,
                          "tileid":496
                         }],
                  "id":486
