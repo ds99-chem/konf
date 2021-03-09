@@ -196,6 +196,16 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/youtu.be\/Y5-KOBia-9U"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"bool",
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
