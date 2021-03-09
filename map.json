@@ -157,12 +157,12 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"https:\/\/github.com\/ds99-chem\/konf\/blob\/master\/Jesus_died_my_soul_to_save.mp3"
+                 "value":"https:\/\/github.com\/ds99-chem\/konf\/blob\/master\/Jesus_died_my_soul_to_save.mp3?raw=true"
                 }, 
                 {
                  "name":"silent",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }],
          "type":"tilelayer",
          "visible":true,
