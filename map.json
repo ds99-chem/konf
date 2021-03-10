@@ -386,6 +386,11 @@
                  "value":"fullscreen; camera; microphone"
                 }, 
                 {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
                  "name":"silent",
                  "type":"bool",
                  "value":true
